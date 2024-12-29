@@ -1,5 +1,6 @@
 # newrepo
 new i just added
-Name <b> Nirmal Chhetri <b>
+Name <b> Nirmal Chhetri </b>
 <br>
-I am learning new things
+<i>
+I am learning new things</i>
